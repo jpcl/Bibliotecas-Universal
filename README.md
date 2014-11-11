@@ -1,4 +1,4 @@
-Bibliotecas-Universal
+Biblioteca-Universal
 =====================
 
 Projeto Módulo Temático em Informática Aplicada
